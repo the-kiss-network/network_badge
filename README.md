@@ -1,6 +1,6 @@
 # Network Badge
 ### 1. Set Up
-Setting up the badge to work with tumblr's color picker.
+Setting up the badge to work with Tumblr's color picker.
 > - Place the following code in the `<head>` tag.
 ```html
 <meta name="color:TKN Badge Color" content="#E2472E"/>
@@ -24,3 +24,5 @@ Place badge on tumblr blog.
 _**Tip**: You should probably save and refresh the page after this step, again._
 
 _**Tip**: The badge will not show up on your tumblr preview. It takes a few minutes for changes to to appear._
+
+###### All of the Tumblr logos and trademarks displayed on this page are the property of Tumblr, Inc.
