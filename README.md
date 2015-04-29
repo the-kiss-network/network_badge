@@ -3,7 +3,8 @@
 Setting up the badge to work with tumblr's color picker.
 > 1. Place the following code in the <head> tag.
 ```
-x = 0
-x = 2 + 2
-what is x
+<meta name="color:TKN Badge Color" content="#E2472E"/>
+<meta name="color:TKN Badge Background Color" content="#E8EBEF"/>
+<script src="https://the-kiss-network.github.io/network_badge/jquery.min.js"></script>
+<script src="https://the-kiss-network.github.io/network_badge/main.js"></script>
 ```
